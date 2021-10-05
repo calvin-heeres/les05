@@ -1,11 +1,11 @@
 # Pannenkoeken beslag
-!(C:\Users\Calvin\downloads\pannenkoeken.jpg)
+![pannenkoek](C:\Users\Calvin\downloads\pannenkoeken.jpg)
 
 ## BENODIGDHEDEN
 __ingrediënten voor 4 pannenkoeken:__
-_125 g tarwemeel_
-_250 ml melk_
-_1 ei_
+* 125 g tarwemeel
+* 250 ml melk
+* 1 ei
 
 ### BEREIDING
 1. Zeef de bloem in een schaal.
