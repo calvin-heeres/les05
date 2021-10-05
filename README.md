@@ -1,5 +1,5 @@
 # Pannenkoeken beslag
-![pannenkoek](C:\Users\Calvin\downloads\pannenkoeken.jpg)
+![pannenkoek](Pannenkoeken.jpg)
 
 ## BENODIGDHEDEN
 __ingrediënten voor 4 pannenkoeken:__
